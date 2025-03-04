@@ -19,6 +19,7 @@ public class UnitTest01 {
     @Test
     public void errorTest() throws Exception {
         //throw new Exception("Unit test error");
+        //comment 
     }
 
     @Ignore
